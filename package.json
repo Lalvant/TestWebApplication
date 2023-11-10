@@ -1,5 +1,8 @@
 {
   "name": "test-angular",
+  "engines": {
+    "node": ">=18.13.0"
+  },
   "version": "0.0.0",
   "scripts": {
     "ng": "ng",
